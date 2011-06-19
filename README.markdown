@@ -3,8 +3,6 @@ Objector
 
 _One who objects._
 
-http://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812
-
 Objector is a Vim game to practice normal mode navigation, text-objects and, if
 installed, the Surround plugin.
 
